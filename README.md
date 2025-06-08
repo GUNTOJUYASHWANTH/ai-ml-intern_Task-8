@@ -1,5 +1,4 @@
 # ai-ml-intern_Task-8
-Support Vector Machines (SVM)
 # Task 8: Clustering with K-Means
 
 ## Objective
